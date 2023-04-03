@@ -1,0 +1,5 @@
+body {
+  font-family: "Epilogue", sans-serif;
+  font-size: 14px;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
