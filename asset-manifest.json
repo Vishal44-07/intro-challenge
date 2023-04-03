@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/intro-challenge/static/css/main.5ed153bd.css",
+    "main.js": "/intro-challenge/static/js/main.92c00be6.js",
+    "static/js/787.1114aabc.chunk.js": "/intro-challenge/static/js/787.1114aabc.chunk.js",
+    "static/media/image-hero-desktop.png": "/intro-challenge/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/intro-challenge/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "index.html": "/intro-challenge/index.html",
+    "main.5ed153bd.css.map": "/intro-challenge/static/css/main.5ed153bd.css.map",
+    "main.92c00be6.js.map": "/intro-challenge/static/js/main.92c00be6.js.map",
+    "787.1114aabc.chunk.js.map": "/intro-challenge/static/js/787.1114aabc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ed153bd.css",
+    "static/js/main.92c00be6.js"
+  ]
+}
